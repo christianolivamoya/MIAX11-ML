@@ -47,3 +47,5 @@ Autores:
 * **Bloque 7: Reducción de dimensionalidad**
   * Notebook *7_1_feature_importance*. Implementación de la importancia por permutación usando `permutation_importance` de Sklearn.
   * Notebook *7_2_pca*. Implementación de `PCA` usando Sklearn. Análisis de la varianza explicada.
+ 
+* **Bloque 8:**
