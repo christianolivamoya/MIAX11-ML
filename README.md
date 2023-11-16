@@ -47,3 +47,6 @@ Autores:
 * **Bloque 7: Reducción de dimensionalidad**
   * Notebook *7_1_feature_importance*. Implementación de la importancia por permutación usando `permutation_importance` de Sklearn.
   * Notebook *7_2_pca*. Implementación de `PCA` usando Sklearn. Análisis de la varianza explicada.
+
+* **Bloque 8: Clasificación Bayesiana**
+  * Notebook *8_1_estimacion_densidades*. Uso de diversos métodos para estimar densidades. Clasificación Bayesiana a partir de las densidades estimadas. Naive Bayes.
