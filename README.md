@@ -50,3 +50,17 @@ Autores:
 
 * **Bloque 8: Clasificación Bayesiana**
   * Notebook *8_1_estimacion_densidades*. Uso de diversos métodos para estimar densidades. Clasificación Bayesiana a partir de las densidades estimadas. Naive Bayes.
+
+* **Bloque 9: Modelos lineales**
+  * Notebook *9_1_modelos_lineales*. Regresión lineal. Complejidad. Dilema bias-varianza. Regularización.
+
+* **Bloque 10: Métodos de Kernel**
+  * Notebook *10_1_kernel_methods*. Introducción a los métodos de kernel.
+  * Notebook *10_2_kernel_ridge*. Regresión lineal basada en kernels.
+
+* **Bloque 11: Support Vector Machines**
+  * Notebook *11_1_support_vector_machines*. Ejemplos sencillos con problemas en 2D.
+  * Notebook *11_2_svm_pima*. Aplicación de SVMs al problema Pima Indians Diabetes.
+
+
+
